@@ -24,7 +24,6 @@ Properties such as public_key, secret_key, and environment are mandatory.
 _Note:_ Environment can either be DEMO (DEMO) or LIVE (Live), each of this environment has it respective Credential. Ensure you set the 
 right credentials. By default Environment is DEMO
 
-
 ## Responses
 Every successful method call returns 4 attributes 
 
